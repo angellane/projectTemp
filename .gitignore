@@ -1,0 +1,52 @@
+# This .gitignore file is designed for Unity projects
+
+# ===============
+# Unity Generated Files
+# ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User settings
+UserSettings/default-6000.dwlt
+
+# Avoid tracking Auto-generated Unity Solution and Project Files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ===============
+# Unity Asset Database
+# ===============
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*
+/[Aa]ssets/[Ss]treamingAssets/*
+/[Aa]ssets/StreamingAssets/*
+
+# ===============
+# Ignore Unity Package Cache
+# ===============
+/[Pp]ackages/
+
+# If using JetBrains Rider
+.idea/
+*.iml
+
+# ===============
+# Logs and Crash Reports
+# ===============
+*.log
+*.stacktrace
+
+# Ignore Play mode state
+ProjectSettings/EditorBuildSettings.asset
