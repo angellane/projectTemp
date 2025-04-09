@@ -1,0 +1,1998 @@
+fileFormatVersion: 2
+guid: 08acbb3d1fc4b0c4090a2a9a7c1b5cf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -643992105118079009
+    second: isles_fridges_0
+  - first:
+      213: 7440831874717198715
+    second: isles_fridges_1
+  - first:
+      213: 8805804040077804954
+    second: isles_fridges_2
+  - first:
+      213: -3170745334660978107
+    second: isles_fridges_3
+  - first:
+      213: 3441164280861182351
+    second: isles_fridges_4
+  - first:
+      213: 2936463675771533118
+    second: isles_fridges_5
+  - first:
+      213: -5811994517196748428
+    second: isles_fridges_6
+  - first:
+      213: 6735770131991741513
+    second: isles_fridges_7
+  - first:
+      213: 2507778918536752713
+    second: isles_fridges_8
+  - first:
+      213: 5142728202771517600
+    second: isles_fridges_9
+  - first:
+      213: 9021059436921411759
+    second: isles_fridges_10
+  - first:
+      213: -4149729312128957724
+    second: isles_fridges_11
+  - first:
+      213: -3392930433025952384
+    second: isles_fridges_12
+  - first:
+      213: 8762097195918346229
+    second: isles_fridges_13
+  - first:
+      213: 6271788356894083259
+    second: isles_fridges_14
+  - first:
+      213: -2718033163509223835
+    second: isles_fridges_15
+  - first:
+      213: -433091351628779852
+    second: isles_fridges_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isles_fridges_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b726ba365a29172479c8677a003fbf9a
+      internalID: 1070779521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a5c386951cb542aeecee928f180b1
+      internalID: -470604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccadbfc7d4c493c44b0c99d1a47b3711
+      internalID: -438732257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea76455e09fe554f9716eb69e353bd4
+      internalID: -1710184931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d67c8389a75034ab8ab666b2636702
+      internalID: -1025005230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081750a25f8b7746aa8311b2fec4241
+      internalID: -2092666186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef8ca8f701622e4081cabcbe34a11c0
+      internalID: 1174264967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9941e804c969e42ad036fbe12bf861
+      internalID: 72150185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a806c5b6fb4f21d44a0a0b837d8c7940
+      internalID: 732377294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4786b4c5ee5b9947bac3dc0577cdd8e
+      internalID: 536342320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612623f33c86a5a48870bd577a1e9058
+      internalID: -344652454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579d97ed12fa52f46af6e8907a01f8b0
+      internalID: 857769113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04438fe0a68b3d24481337c174b54169
+      internalID: 2085968169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f642d5d8964d542b27f0876f2a4c94
+      internalID: 881927102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352d744818536e42a4a254a07eb1de9
+      internalID: 1693427101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2d5f2fa118aa48838e3e31b0705d1
+      internalID: 317442438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ba799ffe408846b7ed9d8c8e3cc9a
+      internalID: 1155640086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9028962db0404086fba85d6413938
+      internalID: -150475449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ccaa8d2de3844bbaf70e4004cc299
+      internalID: 1811174162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d3ef5d65e40fa4cb3e534ed0ef1ba9
+      internalID: -326421727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfcdbfae3b054942aa2d9e4f82de09f
+      internalID: -1956463560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3265af52ee1b4f9b7ec27d66b2111
+      internalID: 1787088026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa50a7ae71fafee4cb3783052555a67e
+      internalID: -943027158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fd37aff9f8a443ba32da118ef67b1
+      internalID: 900596501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42c7cbc7bece244bab4e5e54befb5b
+      internalID: 349938930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf61810b6efb7b4bb21e56f900a1c62
+      internalID: -1210872240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_26
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21febeb8abd1ec24fbc4b0d56c1211a2
+      internalID: 1553363877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d69103e5a2a7468eab88011121d02
+      internalID: 516259921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa451b16b415b4bbdefb82fcf67e5c
+      internalID: -856664341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17161f54f4defd42b058cd8c4e83ffb
+      internalID: -1851221835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_30
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90c1984f6690945a3923f5e79a385e
+      internalID: -183000236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1000
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b31bd54ca55a49a8cf5e4b7de2bdc
+      internalID: 481037415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3b80f5af418b49a83d0af27d928bc
+      internalID: 934359209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e6b404838cbf4187ab20336243f6f
+      internalID: 1286695558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e1b0af2e3f0445b34f69e36943e7d
+      internalID: 1522451439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df13983841dfeec419befe2bfcb7afef
+      internalID: -1097076905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2697fab48f4ba041a223a5885f9393e
+      internalID: 1331758939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e41114018ac44a868670d632c006c
+      internalID: 1813406144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b372b9820febce346a084a3637ffc4ca
+      internalID: -667319598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c00b1e3b2995468ca9005766ef7fd
+      internalID: 1702127166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_40
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f384a12f856a2448a3c3fb9932cfa7
+      internalID: -1812188742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_41
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c2e62135c997428de63c0920fdc70
+      internalID: -2056907914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_42
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 920
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ac56c3b4568f8409b7f82ff98006fb
+      internalID: 1622380342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 840
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486da367f2818f648bf56a891487b25e
+      internalID: 1167998842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 840
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1db3eeedb70894db3f0fde98a2d042
+      internalID: -1342376252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f78d68d56689743bf01b874afa7a2c
+      internalID: -171538064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658543869a7506041a8e5d2d7e3234a6
+      internalID: -1964269755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67a1ec01318c546b3b60d235683b0c
+      internalID: 756426705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816838bed45411f40ab8f72a7d9a3f7c
+      internalID: -1271990838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3129450d0d940a4e8b45f41958a4f02
+      internalID: -459370380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9633949aaa0dc3438e95149b04b9e1b
+      internalID: 262142401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc604b7789a10b43aea22c3ce425e26
+      internalID: 145262683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584b238c1543a645a0e1ff16ad52e9d
+      internalID: -985062318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15edae7bc88fc4428c41b2ffa726904
+      internalID: -168228342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_54
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5594556b47f34f9f48a7d0830efc1
+      internalID: -238181124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_55
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4255d2cbdd44514584e62fead3563af
+      internalID: -1652952548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_56
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0a7279b7a70a2478f16947354735b1
+      internalID: 178088851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_57
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36193b2858f17ce4caa0a0e09e0f1ca2
+      internalID: 1909994711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_58
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e5e0075da3244ca6f656c65b7b4e3
+      internalID: -1938784729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c227dd7599cf2c41bc65c4669af80d1
+      internalID: 239527331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_60
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 760
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a86f5c13095f7408f3a14b78fcda89
+      internalID: 787579241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e2b5664cb4c04d95cefaf4629fed9
+      internalID: -1117146202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a8a4b63ce4de41ab9b0abb7693b64
+      internalID: -935294180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f138cd293d694eb22774fc4eeffcc
+      internalID: 1925080237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76953c93da05636439c2060700b350bb
+      internalID: 2054965161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b45bafb2ad351b429ab10e8b050c100
+      internalID: -31282234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e316fed0d4f4004bae974230e7e181d
+      internalID: 333070131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_67
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d2f713c589cf44eb465d3069b4e1ec
+      internalID: -27877227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019fcd27ac826a4abd6b1a18984b728
+      internalID: 2132846973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_69
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09707f4f85950964db392247c602e10e
+      internalID: -1048712643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_70
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e932d3231069448a51e26e42af4b3
+      internalID: 776156239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_71
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf9f7af5622b749bac7936e8199a57
+      internalID: 2067719209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece968920a5b2bb4a8c6e463ff07a467
+      internalID: 1089953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_73
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9a69f286534347a3e27ce51ada644
+      internalID: 1475968541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_74
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be734cb2ced64c845bc454ab9ebf6177
+      internalID: 1071400067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_75
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d866466f94da48aded3f192d64ab9
+      internalID: -1588525994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee078a81dab6548827c6e6909c2871
+      internalID: -585825488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbb5399dab33b4b9a61f80ff2b3517
+      internalID: 551539128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isles_fridges_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a903db7f5d5c4683d60d1afad6351
+      internalID: 92063804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a857ad1b0ca31ff48a5735a8603fa5f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      isles_fridges_0: 1070779521
+      isles_fridges_1: -470604455
+      isles_fridges_10: -344652454
+      isles_fridges_11: 857769113
+      isles_fridges_12: 2085968169
+      isles_fridges_13: 881927102
+      isles_fridges_14: 1693427101
+      isles_fridges_15: 317442438
+      isles_fridges_16: 1155640086
+      isles_fridges_17: -150475449
+      isles_fridges_18: 1811174162
+      isles_fridges_19: -326421727
+      isles_fridges_2: -438732257
+      isles_fridges_20: -1956463560
+      isles_fridges_21: 1787088026
+      isles_fridges_22: -943027158
+      isles_fridges_23: 900596501
+      isles_fridges_24: 349938930
+      isles_fridges_25: -1210872240
+      isles_fridges_26: 1553363877
+      isles_fridges_27: 516259921
+      isles_fridges_28: -856664341
+      isles_fridges_29: -1851221835
+      isles_fridges_3: -1710184931
+      isles_fridges_30: -183000236
+      isles_fridges_31: 481037415
+      isles_fridges_32: 934359209
+      isles_fridges_33: 1286695558
+      isles_fridges_34: 1522451439
+      isles_fridges_35: -1097076905
+      isles_fridges_36: 1331758939
+      isles_fridges_37: 1813406144
+      isles_fridges_38: -667319598
+      isles_fridges_39: 1702127166
+      isles_fridges_4: -1025005230
+      isles_fridges_40: -1812188742
+      isles_fridges_41: -2056907914
+      isles_fridges_42: 1622380342
+      isles_fridges_43: 1167998842
+      isles_fridges_44: -1342376252
+      isles_fridges_45: -171538064
+      isles_fridges_46: -1964269755
+      isles_fridges_47: 756426705
+      isles_fridges_48: -1271990838
+      isles_fridges_49: -459370380
+      isles_fridges_5: -2092666186
+      isles_fridges_50: 262142401
+      isles_fridges_51: 145262683
+      isles_fridges_52: -985062318
+      isles_fridges_53: -168228342
+      isles_fridges_54: -238181124
+      isles_fridges_55: -1652952548
+      isles_fridges_56: 178088851
+      isles_fridges_57: 1909994711
+      isles_fridges_58: -1938784729
+      isles_fridges_59: 239527331
+      isles_fridges_6: 1174264967
+      isles_fridges_60: 787579241
+      isles_fridges_61: -1117146202
+      isles_fridges_62: -935294180
+      isles_fridges_63: 1925080237
+      isles_fridges_64: 2054965161
+      isles_fridges_65: -31282234
+      isles_fridges_66: 333070131
+      isles_fridges_67: -27877227
+      isles_fridges_68: 2132846973
+      isles_fridges_69: -1048712643
+      isles_fridges_7: 72150185
+      isles_fridges_70: 776156239
+      isles_fridges_71: 2067719209
+      isles_fridges_72: 1089953211
+      isles_fridges_73: 1475968541
+      isles_fridges_74: 1071400067
+      isles_fridges_75: -1588525994
+      isles_fridges_76: -585825488
+      isles_fridges_77: 551539128
+      isles_fridges_78: 92063804
+      isles_fridges_8: 732377294
+      isles_fridges_9: 536342320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

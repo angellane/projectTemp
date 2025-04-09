@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a25f7e3d3fe681f4894d6953a3614d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3696534699467177871
+    second: Mark Updated By Colm (128x128)_0
+  - first:
+      213: -8160764845749943872
+    second: Mark Updated By Colm (128x128)_1
+  - first:
+      213: -5076840515467752211
+    second: Mark Updated By Colm (128x128)_2
+  - first:
+      213: 8032831575686840494
+    second: Mark Updated By Colm (128x128)_3
+  - first:
+      213: 266319944860111549
+    second: Mark Updated By Colm (128x128)_4
+  - first:
+      213: 5410540095170906596
+    second: Mark Updated By Colm (128x128)_5
+  - first:
+      213: 7227056417672218950
+    second: Mark Updated By Colm (128x128)_6
+  - first:
+      213: -7525914508867704303
+    second: Mark Updated By Colm (128x128)_7
+  - first:
+      213: 891094174257804069
+    second: Mark Updated By Colm (128x128)_8
+  - first:
+      213: 4199404442643020651
+    second: Mark Updated By Colm (128x128)_9
+  - first:
+      213: 4423260875745664575
+    second: Mark Updated By Colm (128x128)_10
+  - first:
+      213: 4118030450129223627
+    second: Mark Updated By Colm (128x128)_11
+  - first:
+      213: -3520129083804886477
+    second: Mark Updated By Colm (128x128)_12
+  - first:
+      213: 6832747772603643441
+    second: Mark Updated By Colm (128x128)_13
+  - first:
+      213: 8216084583632112103
+    second: Mark Updated By Colm (128x128)_14
+  - first:
+      213: 8100727319870133647
+    second: Mark Updated By Colm (128x128)_15
+  - first:
+      213: -8610479822707736093
+    second: Mark Updated By Colm (128x128)_16
+  - first:
+      213: 6919288401922917797
+    second: Mark Updated By Colm (128x128)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 548
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1708a52a64543bcc0800000000000000
+      internalID: -3696534699467177871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 548
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c144914c932fbe80800000000000000
+      internalID: -8160764845749943872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 548
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deccb3e03707b89b0800000000000000
+      internalID: -5076840515467752211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 548
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea00b5122c95a7f60800000000000000
+      internalID: 8032831575686840494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 420
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db21dfd249822b300800000000000000
+      internalID: 266319944860111549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 420
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e98bafdc89161b40800000000000000
+      internalID: 5410540095170906596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494f037589ab4460800000000000000
+      internalID: 7227056417672218950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 420
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a6bf0d0a49e8790800000000000000
+      internalID: -7525914508867704303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 292
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237e062e6dcd5c00800000000000000
+      internalID: 891094174257804069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 292
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b3fe75718474a30800000000000000
+      internalID: 4199404442643020651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e14bfb454926d30800000000000000
+      internalID: 4423260875745664575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 292
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb13a40ee262930800000000000000
+      internalID: 4118030450129223627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad94caf3df52fc0800000000000000
+      internalID: -3520129083804886477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136b1e1d5ebc2de50800000000000000
+      internalID: 6832747772603643441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 164
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e984fbe565650270800000000000000
+      internalID: 8216084583632112103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 164
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f855923f3909b6070800000000000000
+      internalID: 8100727319870133647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e146d5b83e618880800000000000000
+      internalID: -8610479822707736093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark Updated By Colm (128x128)_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5881f3420460060800000000000000
+      internalID: 6919288401922917797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc9be58c72c228e4eab318f343b42d1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mark Updated By Colm (128x128)_0: -3696534699467177871
+      Mark Updated By Colm (128x128)_1: -8160764845749943872
+      Mark Updated By Colm (128x128)_10: 4423260875745664575
+      Mark Updated By Colm (128x128)_11: 4118030450129223627
+      Mark Updated By Colm (128x128)_12: -3520129083804886477
+      Mark Updated By Colm (128x128)_13: 6832747772603643441
+      Mark Updated By Colm (128x128)_14: 8216084583632112103
+      Mark Updated By Colm (128x128)_15: 8100727319870133647
+      Mark Updated By Colm (128x128)_16: -8610479822707736093
+      Mark Updated By Colm (128x128)_17: 6919288401922917797
+      Mark Updated By Colm (128x128)_2: -5076840515467752211
+      Mark Updated By Colm (128x128)_3: 8032831575686840494
+      Mark Updated By Colm (128x128)_4: 266319944860111549
+      Mark Updated By Colm (128x128)_5: 5410540095170906596
+      Mark Updated By Colm (128x128)_6: 7227056417672218950
+      Mark Updated By Colm (128x128)_7: -7525914508867704303
+      Mark Updated By Colm (128x128)_8: 891094174257804069
+      Mark Updated By Colm (128x128)_9: 4199404442643020651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
