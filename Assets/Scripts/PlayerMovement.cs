@@ -27,10 +27,12 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         FindRestockAndShelfObjects();
-        reputationBar = FindObjectOfType<ReputationBar>();
+        
+        
+        reputationBar = FindFirstObjectByType<ReputationBar>();
         if (reputationBar == null)
         {
             Debug.LogWarning("ReputationBar component not found in the scene.");
@@ -41,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         FindRestockAndShelfObjects();
-        reputationBar = FindObjectOfType<ReputationBar>();
+        reputationBar = FindFirstObjectByType<ReputationBar>(); // Updated
         if (reputationBar == null)
         {
             Debug.LogWarning("ReputationBar component not found in the scene.");
@@ -181,7 +183,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (collision.CompareTag("Coffee"))
         {
-            CoffeeSpawner spawner = FindObjectOfType<CoffeeSpawner>();
+            CoffeeSpawner spawner = FindFirstObjectByType<CoffeeSpawner>(); // Updated
             if (spawner != null)
             {
                 spawner.CoffeeCollected();
