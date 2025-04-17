@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: ac4083d2bbff73a46828759425df2630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4953531604409864332
+    second: Volume-Settings_0
+  - first:
+      213: 3345276246102141195
+    second: Volume-Settings_1
+  - first:
+      213: 4915529783633199859
+    second: Volume-Settings_2
+  - first:
+      213: 9031944504245035338
+    second: Volume-Settings_3
+  - first:
+      213: 2319933671751552732
+    second: Volume-Settings_4
+  - first:
+      213: -5165782720356838919
+    second: Volume-Settings_5
+  - first:
+      213: 5110887397642808844
+    second: Volume-Settings_6
+  - first:
+      213: -1538779920235437890
+    second: Volume-Settings_7
+  - first:
+      213: -7166440719999131841
+    second: Volume-Settings_8
+  - first:
+      213: -2121651228351688834
+    second: Volume-Settings_9
+  - first:
+      213: -6145344718532453219
+    second: Volume-Settings_10
+  - first:
+      213: -531646840632889215
+    second: Volume-Settings_11
+  - first:
+      213: -3704283200391397415
+    second: Volume-Settings_12
+  - first:
+      213: 3427019403496377271
+    second: Volume-Settings_13
+  - first:
+      213: -7124725719175568520
+    second: Volume-Settings_14
+  - first:
+      213: 8879297579504648259
+    second: Volume-Settings_15
+  - first:
+      213: 1155273815481369645
+    second: Volume-Settings_16
+  - first:
+      213: 619634349596424971
+    second: Volume-Settings_17
+  - first:
+      213: 6031139080179617621
+    second: Volume-Settings_18
+  - first:
+      213: -3818180551106858077
+    second: Volume-Settings_19
+  - first:
+      213: 6012483146045701140
+    second: Volume-Settings_20
+  - first:
+      213: -8893617621787961447
+    second: Volume-Settings_21
+  - first:
+      213: 1572750035175558508
+    second: Volume-Settings_22
+  - first:
+      213: -2901735990926567586
+    second: Volume-Settings_23
+  - first:
+      213: -2189593941853254235
+    second: Volume-Settings_24
+  - first:
+      213: 2223000471316606307
+    second: Volume-Settings_25
+  - first:
+      213: -3353250490814461153
+    second: Volume-Settings_26
+  - first:
+      213: 7304861982728317685
+    second: Volume-Settings_27
+  - first:
+      213: -1041227375749870558
+    second: Volume-Settings_28
+  - first:
+      213: 6098091654270151020
+    second: Volume-Settings_29
+  - first:
+      213: -646351225737315889
+    second: Volume-Settings_30
+  - first:
+      213: 1159970899545621599
+    second: Volume-Settings_31
+  - first:
+      213: -6978498972508106565
+    second: Volume-Settings_32
+  - first:
+      213: 3449785701837513620
+    second: Volume-Settings_33
+  - first:
+      213: -7583041834013663993
+    second: Volume-Settings_34
+  - first:
+      213: 6249471306719793999
+    second: Volume-Settings_35
+  - first:
+      213: -4734686640625966502
+    second: Volume-Settings_36
+  - first:
+      213: 6364206449286026222
+    second: Volume-Settings_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Volume-Settings_0
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 830
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c805580dfba7eb440800000000000000
+      internalID: 4953531604409864332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 830
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b096874950fcc6e20800000000000000
+      internalID: 3345276246102141195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 830
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f24f4c6b48773440800000000000000
+      internalID: 4915529783633199859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_3
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 830
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41219e5ca9e75d70800000000000000
+      internalID: 9031944504245035338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 830
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0837026f023020800000000000000
+      internalID: 2319933671751552732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 830
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1974e3cf37f48b0800000000000000
+      internalID: -5165782720356838919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_6
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 830
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e258f62058de640800000000000000
+      internalID: 5110887397642808844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 830
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ecdab0d725aae0800000000000000
+      internalID: -1538779920235437890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 830
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9e847220bb8c90800000000000000
+      internalID: -7166440719999131841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_9
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 830
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f83d4e2716e82e0800000000000000
+      internalID: -2121651228351688834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 830
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cdc85b98957baa0800000000000000
+      internalID: -6145344718532453219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 830
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1803e16e3063f98f0800000000000000
+      internalID: -531646840632889215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 797
+        width: 251
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df393d2e0eb79cc0800000000000000
+      internalID: -3704283200391397415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 758
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbc5c78df73f8f20800000000000000
+      internalID: 3427019403496377271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 758
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736372f4b3ef1d90800000000000000
+      internalID: -7124725719175568520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_15
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 758
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3404c51aa1a993b70800000000000000
+      internalID: 8879297579504648259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 758
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24c31e0a6b580010800000000000000
+      internalID: 1155273815481369645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 758
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b33527822699800800000000000000
+      internalID: 619634349596424971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 758
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f05110a09e2b350800000000000000
+      internalID: 6031139080179617621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 758
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a378f2b409130bc0800000000000000
+      internalID: -3818180551106858077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 758
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cb31ad091a07350800000000000000
+      internalID: 6012483146045701140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_21
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 758
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9979c25b4e5839480800000000000000
+      internalID: -8893617621787961447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 758
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4f1ff2d783d510800000000000000
+      internalID: 1572750035175558508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 758
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e571bd48d76fab7d0800000000000000
+      internalID: -2901735990926567586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_24
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 725
+        width: 251
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad4d7d29effc91e0800000000000000
+      internalID: -2189593941853254235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2a54962fa9de10800000000000000
+      internalID: 2223000471316606307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_26
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b8914e17cd671d0800000000000000
+      internalID: -3353250490814461153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae6cd3545106560800000000000000
+      internalID: 7304861982728317685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_28
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c440ae731dc81f0800000000000000
+      internalID: -1041227375749870558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 689
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69eb8cec06c0a450800000000000000
+      internalID: 6098091654270151020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_30
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 689
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f9c51cf2b707f0800000000000000
+      internalID: -646351225737315889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 689
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540539236b091010800000000000000
+      internalID: 1159970899545621599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_32
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 689
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d93e7824672f90800000000000000
+      internalID: -6978498972508106565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_33
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4932f3d61d910ef20800000000000000
+      internalID: 3449785701837513620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_34
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 689
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d50bee0af93c690800000000000000
+      internalID: -7583041834013663993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_35
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 689
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f439707da059ab650800000000000000
+      internalID: 6249471306719793999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_36
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 689
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a3b6f5930b4eb0800000000000000
+      internalID: -4734686640625966502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volume-Settings_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 656
+        width: 251
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee391feeb04325850800000000000000
+      internalID: 6364206449286026222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
