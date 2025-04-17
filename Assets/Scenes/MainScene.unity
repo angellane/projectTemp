@@ -1616,7 +1616,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6726d65568c77fd449122ff6ffcab8b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneBuildIndex: 1
+  sceneBuildIndex: 2
   newSpawnPosition: {x: -1.65, y: -4.72}
 --- !u!1 &584638966
 GameObject:
