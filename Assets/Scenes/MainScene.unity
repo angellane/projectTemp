@@ -9087,8 +9087,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7504adf1ab7304e86285d7ab784eaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainSceneTrack: {fileID: 8300000, guid: 44da04fade29df3469b17ee9ba5d04c5, type: 3}
-  storageSceneTrack: {fileID: 8300000, guid: 0acb3b26c6fb01e43b133a36a8e52593, type: 3}
+  mainSceneTrack: {fileID: 8300000, guid: c1e7173d2b2f1dd4e857620720adbaf0, type: 3}
+  storageSceneTrack: {fileID: 8300000, guid: 0ccab949a0f4e554da48db07ed503c53, type: 3}
 --- !u!82 &1804166802
 AudioSource:
   m_ObjectHideFlags: 0
