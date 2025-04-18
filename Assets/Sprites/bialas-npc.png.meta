@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bialas-npc_0: -6458275850206667691
+      bialas-npc_1: 7062897358306010313
+      bialas-npc_10: 5995093742818983948
+      bialas-npc_11: -7105223935566267335
+      bialas-npc_12: 3125412497232979107
+      bialas-npc_13: -1268261230668028659
+      bialas-npc_2: 4653471819311129784
+      bialas-npc_3: 946837824346325288
+      bialas-npc_4: 2804793158914644639
+      bialas-npc_5: -2561822876474872591
+      bialas-npc_6: -7367248776285840477
+      bialas-npc_7: -8545863814675660346
+      bialas-npc_8: -1660618036669064179
+      bialas-npc_9: -8549124276988841338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

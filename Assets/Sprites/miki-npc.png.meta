@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      miki-npc_0: 2258094753899926214
+      miki-npc_1: 7819961562793303671
+      miki-npc_10: -9098172593475277642
+      miki-npc_11: 1228184321136804731
+      miki-npc_12: -3634465063864786140
+      miki-npc_13: -3437963741868961927
+      miki-npc_2: 4662478868838481242
+      miki-npc_3: -2302478223947284154
+      miki-npc_4: -2284411946475590585
+      miki-npc_5: 2949052576113861778
+      miki-npc_6: 1506610358812219110
+      miki-npc_7: -6723363197464860373
+      miki-npc_8: 4695198646546581355
+      miki-npc_9: 827546117358931522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

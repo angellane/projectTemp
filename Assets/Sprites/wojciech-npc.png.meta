@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wojciech-npc_0: 708132092890527182
+      wojciech-npc_1: -4279426408315026118
+      wojciech-npc_10: 8139540660726285893
+      wojciech-npc_11: 3898165345314137511
+      wojciech-npc_12: 2626968848129392868
+      wojciech-npc_13: 5204663924959147094
+      wojciech-npc_2: 7794168793901239145
+      wojciech-npc_3: -1282948948639212994
+      wojciech-npc_4: -1353296948973752554
+      wojciech-npc_5: -7080734559386612032
+      wojciech-npc_6: 838589911137886905
+      wojciech-npc_7: -7135451858708962563
+      wojciech-npc_8: 7499695793176809172
+      wojciech-npc_9: 5265245153855446137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

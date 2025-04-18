@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jojo-npc_0: 6750108707980685464
+      jojo-npc_1: 2279928296847746470
+      jojo-npc_10: -831124546632540255
+      jojo-npc_11: 2786176539442663798
+      jojo-npc_12: -2938697927259660301
+      jojo-npc_13: 7778562344484968226
+      jojo-npc_14: 8378049413974593308
+      jojo-npc_2: -6411583854294707336
+      jojo-npc_3: -6593454309548546716
+      jojo-npc_4: -1819859154776948976
+      jojo-npc_5: 1728541643550784924
+      jojo-npc_6: -6929887911365449803
+      jojo-npc_7: 4775375930989738093
+      jojo-npc_8: -8457392793718292124
+      jojo-npc_9: 4037952307607447128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

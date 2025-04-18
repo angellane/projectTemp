@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sam-npc_0: 7411312209372471463
+      Sam-npc_1: -2963055873403617335
+      Sam-npc_10: -514784294373815495
+      Sam-npc_11: 5548288911351489152
+      Sam-npc_12: -607767155417187910
+      Sam-npc_13: 3841089130524354187
+      Sam-npc_2: 7995790929607438332
+      Sam-npc_3: -4109872306436933437
+      Sam-npc_4: 856740791985896812
+      Sam-npc_5: -423019066935413857
+      Sam-npc_6: 3056862471601991923
+      Sam-npc_7: 8921770873142398946
+      Sam-npc_8: 7810635638262361969
+      Sam-npc_9: -2208161804149185351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

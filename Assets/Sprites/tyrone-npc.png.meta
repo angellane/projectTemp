@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tyrone-npc_0: 8861853598859793809
+      tyrone-npc_1: 7485757126383316855
+      tyrone-npc_10: -5541326015103601462
+      tyrone-npc_11: -769528178014720593
+      tyrone-npc_12: -9012747211304132137
+      tyrone-npc_13: 2860852960205009263
+      tyrone-npc_2: -3870194640200145919
+      tyrone-npc_3: -3645515624704686887
+      tyrone-npc_4: 2293769934547931980
+      tyrone-npc_5: 6687959467245677799
+      tyrone-npc_6: -4301599770517141476
+      tyrone-npc_7: 6957832841706314719
+      tyrone-npc_8: -1921288505936904662
+      tyrone-npc_9: 8660211162032508524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

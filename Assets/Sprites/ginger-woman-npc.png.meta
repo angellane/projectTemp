@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ginger-woman-npc_0: -9095390451084722028
+      ginger-woman-npc_1: -6987908824067949845
+      ginger-woman-npc_10: 1921852398070170279
+      ginger-woman-npc_11: -3186403949791004993
+      ginger-woman-npc_12: -8246150788959077107
+      ginger-woman-npc_13: -6188511239582443288
+      ginger-woman-npc_2: 305293239340688956
+      ginger-woman-npc_3: -7002855913596312598
+      ginger-woman-npc_4: 6412054463912701190
+      ginger-woman-npc_5: -7732386543307127188
+      ginger-woman-npc_6: -4178246561888608353
+      ginger-woman-npc_7: 3646714038639230904
+      ginger-woman-npc_8: -7916795849389739146
+      ginger-woman-npc_9: -3609542138920536652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

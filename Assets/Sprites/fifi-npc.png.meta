@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fifi-npc_0: 1063089353400675030
+      fifi-npc_1: 5004081597409877450
+      fifi-npc_10: 813470273538785792
+      fifi-npc_11: -4811455806571793061
+      fifi-npc_12: 807127901022466794
+      fifi-npc_13: 329511941158436515
+      fifi-npc_2: 9062308807282737099
+      fifi-npc_3: 8442458850015978296
+      fifi-npc_4: 6066761406358661741
+      fifi-npc_5: -8418935049636401080
+      fifi-npc_6: 3886701758181268538
+      fifi-npc_7: -8180779121521680714
+      fifi-npc_8: 2211454676301879426
+      fifi-npc_9: 4344112762022556676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -19,7 +19,7 @@ public class HideNPCs : MonoBehaviour
     {
         npcs = GameObject.FindGameObjectsWithTag("NPC");
 
-        if (scene.buildIndex == 0) // Check if the loaded scene is scene 0
+        if (scene.buildIndex == 1) // Check if the loaded scene is scene 0
         {
             foreach (var npc in npcs)
             {

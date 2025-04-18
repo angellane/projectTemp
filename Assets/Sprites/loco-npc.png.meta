@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      loco-npc_0: -425668224571163001
+      loco-npc_1: -2949471649445529664
+      loco-npc_10: -5743421361229131687
+      loco-npc_11: 6373329962311154784
+      loco-npc_12: -2915548638504174778
+      loco-npc_13: 8555057307212841862
+      loco-npc_2: -6352285288760023778
+      loco-npc_3: 6952236044422975958
+      loco-npc_4: -7625281115916681982
+      loco-npc_5: 6887454220605180483
+      loco-npc_6: -6952851491390358960
+      loco-npc_7: -8821402134516455182
+      loco-npc_8: 4686529435104778917
+      loco-npc_9: -3280403267941689727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
