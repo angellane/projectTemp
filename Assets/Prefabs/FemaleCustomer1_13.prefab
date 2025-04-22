@@ -257,8 +257,8 @@ MonoBehaviour:
   - I'm ready to pay!
   textVerticalOffset: 0.5
   textScale: 1.5
-  fontSize: 36
-  textColor: {r: 0, g: 0, b: 0, a: 1}
+  fontSize: 2
+  textColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &6729880815539767772
 MonoBehaviour:
   m_ObjectHideFlags: 0

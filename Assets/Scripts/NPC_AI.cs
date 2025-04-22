@@ -20,9 +20,9 @@ public class NPC_AI : MonoBehaviour
     };
 
     [Header("Text Settings")]
-    [SerializeField] private float textVerticalOffset = 0.5f; // Height above NPC (0.5 works for 0.6 tall NPC)
-    [SerializeField] private float textScale = 0.5f; // Overall size multiplier
-    [SerializeField] private int fontSize = 10; // Base font size
+    [SerializeField] private float textVerticalOffset = 0.5f; 
+    [SerializeField] private float textScale = 0.5f; 
+    [SerializeField] private int fontSize = 10; 
     [SerializeField] private Color textColor = Color.black;
 
     private TextMeshPro speechText;
@@ -37,18 +37,18 @@ public class NPC_AI : MonoBehaviour
 
     private void CreateSpeechText()
     {
-        // Destroy old text if it exists
+       
         TextMeshPro existingText = GetComponentInChildren<TextMeshPro>();
         if (existingText != null)
             Destroy(existingText.gameObject);
 
-        // Create new text object with proper scaling
+      
         GameObject textObj = new GameObject("SpeechText");
         textObj.transform.SetParent(transform);
         textObj.transform.localPosition = new Vector3(0, textVerticalOffset, 0);
         textObj.transform.localScale = Vector3.one * textScale;
 
-        // Configure TextMeshPro
+      
         speechText = textObj.AddComponent<TextMeshPro>();
         speechText.text = "";
         speechText.fontSize = fontSize;
@@ -57,7 +57,7 @@ public class NPC_AI : MonoBehaviour
         speechText.fontStyle = FontStyles.Bold;
         speechText.enableWordWrapping = false;
         
-        // Critical rendering settings
+        
         var renderer = speechText.GetComponent<MeshRenderer>();
         renderer.sortingOrder = 9999;
         renderer.sortingLayerName = "UI";
@@ -69,7 +69,7 @@ public class NPC_AI : MonoBehaviour
     {
         if (speechText != null && speechText.gameObject.activeSelf)
         {
-            // Face camera while staying upright
+         
             speechText.transform.rotation = Quaternion.LookRotation(
                 Camera.main.transform.forward,
                 Vector3.up

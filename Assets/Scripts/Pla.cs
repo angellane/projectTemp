@@ -29,12 +29,12 @@ public class PlayerInteract : MonoBehaviour
             if (npcAI != null)
             {
                 npcAI.TriggerDialogue();
-                break; // Interact with only one NPC
+                break;
             }
         }
     }
 
-    // Visualize interaction range in editor
+ 
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.green;
