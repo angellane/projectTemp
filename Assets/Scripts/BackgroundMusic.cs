@@ -11,7 +11,7 @@ public class MusicManager : MonoBehaviour
     public AudioClip storageSceneTrack;
 
     private AudioSource audioSource;
-    private const float TARGET_VOLUME = 0.05f; // alter number for volume change
+    private const float TARGET_VOLUME = 0.05f;
 
     void Awake()
     {
@@ -24,7 +24,7 @@ public class MusicManager : MonoBehaviour
             audioSource = GetComponent<AudioSource>();
             audioSource.loop = true;
             audioSource.playOnAwake = false;
-            audioSource.volume = TARGET_VOLUME; // permanent volume
+            audioSource.volume = TARGET_VOLUME;
             audioSource.clip = mainSceneTrack;
             audioSource.Play();
         }
@@ -36,7 +36,7 @@ public class MusicManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // saves music timestamp on transition
+      
         float currentTime = audioSource.time;
 
         if (scene.name == "MainScene")

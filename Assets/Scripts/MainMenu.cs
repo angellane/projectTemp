@@ -4,25 +4,25 @@ using UnityEngine.Video;
 
 public class MainMenu : MonoBehaviour
 {
-    public VideoPlayer videoPlayer; // Assign in Inspector if using VideoPlayer
+    public VideoPlayer videoPlayer; 
 
     void Start()
     {
         if (videoPlayer != null)
         {
-            videoPlayer.loopPointReached += OnVideoEnd; // Optional: If you want an outro
+            videoPlayer.loopPointReached += OnVideoEnd;
             videoPlayer.Play();
         }
     }
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("MainScene"); // Replace with your game scene name
+        SceneManager.LoadScene("MainScene"); 
     }
 
     public void OpenOptions()
     {
-        // Add options menu logic (e.g., open a submenu)
+   
     }
 
     public void QuitGame()
@@ -33,9 +33,9 @@ public class MainMenu : MonoBehaviour
 #endif
     }
 
-    // Optional: If video should trigger scene change after playing
+  
     void OnVideoEnd(VideoPlayer vp)
     {
-        //SceneManager.LoadScene("YourGameScene");
+      
     }
 }

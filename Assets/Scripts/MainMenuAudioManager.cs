@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BackgroundMusic : MonoBehaviour
 {
-    public AudioClip menuMusic; // Assign in Inspector
+    public AudioClip menuMusic;
     private AudioSource audioSource;
 
     void Start()
@@ -13,7 +13,7 @@ public class BackgroundMusic : MonoBehaviour
         audioSource.Play();
     }
 
-    // Call this to change music later (e.g., after clicking "Play")
+  
     public void ChangeMusic(AudioClip newClip)
     {
         audioSource.Stop();

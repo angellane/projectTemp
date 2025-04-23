@@ -19,34 +19,34 @@ public class HideNPCs : MonoBehaviour
     {
         npcs = GameObject.FindGameObjectsWithTag("NPC");
 
-        if (scene.buildIndex == 1) // Check if the loaded scene is scene 0
+        if (scene.buildIndex == 1)
         {
             foreach (var npc in npcs)
             {
-                SetNPCVisibility(npc, true); // Make NPCs visible
+                SetNPCVisibility(npc, true);
             }
         }
         else
         {
             foreach (var npc in npcs)
             {
-                SetNPCVisibility(npc, false); // Make NPCs invisible
+                SetNPCVisibility(npc, false);
             }
         }
     }
 
     void SetNPCVisibility(GameObject npc, bool isVisible)
     {
-        // Get the Renderer component of the NPC
+
         Renderer npcRenderer = npc.GetComponent<Renderer>();
         if (npcRenderer != null)
         {
-            npcRenderer.enabled = isVisible; // Enable or disable the renderer
+            npcRenderer.enabled = isVisible; 
         }
     }
 
     void Start()
     {
-        // Initialization code if needed
+
     }
 }

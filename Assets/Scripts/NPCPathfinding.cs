@@ -3,7 +3,7 @@ using UnityEngine;
 public class NPCPathfinding : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 2f;
-    [SerializeField] private Transform[] waypoints; // Assign in Inspector
+    [SerializeField] private Transform[] waypoints;
     private int currentWaypoint = 0;
     private Rigidbody2D rb;
     private Vector2 moveDir;

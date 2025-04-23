@@ -3,17 +3,15 @@ using UnityEngine;
 public class AssignCameraToCanvas : MonoBehaviour
 {
     public Canvas canvas; // Assign your Canvas in the Inspector
-    public Camera targetCamera; // Assign your Camera in the Inspector (optional)
+    public Camera targetCamera;
 
     void Start()
     {
-        // If no target camera is assigned, use the main camera
         if (targetCamera == null)
         {
             targetCamera = Camera.main;
         }
 
-        // Ensure the canvas and camera are valid
         if (canvas != null && targetCamera != null)
         {
             canvas.renderMode = RenderMode.ScreenSpaceCamera;
